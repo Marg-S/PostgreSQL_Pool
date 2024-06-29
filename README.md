@@ -1,4 +1,4 @@
-## PostgreSQL_Pool
+## PostgreSQL in 14 days
 Script with Database Model is in file [model.sql](model.sql)
 
 The Logical View of this Database Model:
